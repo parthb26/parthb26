@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Mood TV (to know more, go through readme file)**
 
-- 🤝 I’m looking for help in **landing a remote internship**
+- 🤝 I’m looking for a **Remote internship**
 
 - 👨‍💻 All of my projects are available at [https://parthb26.github.io/Portfolio/](https://parthb26.github.io/Portfolio/)
 
