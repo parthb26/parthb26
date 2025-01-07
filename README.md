@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthb26&label=Profile%20views&color=0e75b6&style=flat" alt="parthb26" /> </p>
 <h3 align="center"> About me </h3>
-I am Final Year Computer Science Undergrad, currently working with Backend, DevOps and Cloud Operations. I hold developmental experience in **Golang, TypeScript, Cpp, Pipeline Integrations, Docker, Kubernetes, AWS** & several other tech stacks.
+I am Final Year Computer Science Undergrad, currently working with Backend, DevOps and Cloud Operations. I hold developmental experience in Golang, TypeScript, Cpp, Pipeline Integrations, Docker, Kubernetes, AWS & several other tech stacks.
 
 - 📫 How to reach me **parthbilgaiyan.work@gmail.com**
 
